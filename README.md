@@ -1,7 +1,7 @@
 # Walmart-EDA
 
 <p align ="center">
-  <img src="img/logo.png" width="450" height="300">
+  <img src="img/logo.png" width="550" height="350">
 </p>
 
 ## 📌 Project Overview
